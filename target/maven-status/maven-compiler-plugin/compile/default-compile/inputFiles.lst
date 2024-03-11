@@ -1,0 +1,10 @@
+/home/junior/cotuba/cotuba/src/main/java/cotuba/cli/Main.java
+/home/junior/cotuba/cotuba/src/main/java/cotuba/md/RenderizadorMDParaHTMLImpl.java
+/home/junior/cotuba/cotuba/src/main/java/cotuba/application/GeradorEbook.java
+/home/junior/cotuba/cotuba/src/main/java/cotuba/application/Cotuba.java
+/home/junior/cotuba/cotuba/src/main/java/cotuba/domain/Capitulo.java
+/home/junior/cotuba/cotuba/src/main/java/cotuba/application/RenderizadorMDParaHTML.java
+/home/junior/cotuba/cotuba/src/main/java/cotuba/pdf/GeradorPDF.java
+/home/junior/cotuba/cotuba/src/main/java/cotuba/domain/Ebook.java
+/home/junior/cotuba/cotuba/src/main/java/cotuba/cli/LeitorOpcoesCLI.java
+/home/junior/cotuba/cotuba/src/main/java/cotuba/epub/GeradorEPUB.java
